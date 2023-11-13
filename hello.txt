@@ -1,2 +1,3 @@
-hi
-hello
+hi - first commit
+hello - second commit
+this is the third commit - third commit
